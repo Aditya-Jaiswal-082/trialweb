@@ -1,0 +1,26 @@
+body{
+    background-color: peachpuff;
+}
+
+pre{
+    color: rgb(235, 8, 197);
+    text-shadow: 20px;
+    cursor: pointer;
+}
+
+pre:hover {
+    color: transparent;
+}
+
+/* div{
+    background-color: aliceblue;
+    background-image: radial-gradient(rgb(83, 227, 83) , yellow);
+} */
+.parent {
+    color : blanchedalmond;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: #000000;
+}
+
